@@ -4,7 +4,7 @@ require: opencv4 c++11
 ****
 
 A foreground dection program based on multi-gaussian model.  
-Example data set is tree waving.  
+Example data set: tree waving.  
 Input: image/b%05d.bmp  
 Output: output.mp4  
 
