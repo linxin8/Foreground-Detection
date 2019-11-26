@@ -1,15 +1,16 @@
-# Foreground-Detection
----------------------
-require opencv4 c++11
----------------------
-A foreground dection program based on multi-gaussian model.
-Example data set is tree waving.
-Input: image/b%05d.bmp
-Output: output.mp4
+# Foreground-Detection  
+require: opencv4 c++11  
 
-****************************************
+****
 
-基于多高斯模型的前景检测程序
-样例数据集：tree waving
-输入：image/b%05d.bmp
-输出: output.mp4
+A foreground dection program based on multi-gaussian model.  
+Example data set is tree waving.  
+Input: image/b%05d.bmp  
+Output: output.mp4  
+
+****
+
+基于多高斯模型的前景检测程序  
+样例数据集：tree waving  
+输入：image/b%05d.bmp  
+输出: output.mp4  
